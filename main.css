@@ -1,0 +1,8 @@
+section {
+    width: 400px;
+    height: 400px;
+}
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
